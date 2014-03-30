@@ -21,7 +21,7 @@ Mach operating system. The event loop is a specific implementation technique
 of systems that use message passing.
 
 ### Alternative designs
-*This* approach is in contrast to a number of other alternatives:
+**This** approach is in contrast to a number of other alternatives:
 Traditionally, a program simply ran once then terminated. This type of program
 was very common in the early days of computing, and lacked any form of user
 interactivity. This is still used frequently, particularly in the form of
@@ -33,5 +33,6 @@ with an ever-narrowing set of options until the task they wish to carry out is
 the only option available. Limited interactivity through the menus is
 available.
 
+****
+
 ### Usage
-***
