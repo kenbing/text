@@ -11,7 +11,7 @@ the central control flow construct of a program, as it often does, it may be
 termed the main loop or main event loop. This title is appropriate because
 such an event loop is at the highest level of control within the program.
 
-Message passing
+#Message passing
 
 Message pumps are said to 'pump' messages from the program's message queue
 (assigned and usually owned by the underlying operating system) into the
@@ -21,7 +21,7 @@ processing exists in many systems, including a kernel-level component of the
 Mach operating system. The event loop is a specific implementation technique
 of systems that use message passing.
 
-Alternative designs
+#Alternative designs
 
 This approach is in contrast to a number of other alternatives:
 Traditionally, a program simply ran once then terminated. This type of program
@@ -35,4 +35,4 @@ with an ever-narrowing set of options until the task they wish to carry out is
 the only option available. Limited interactivity through the menus is
 available.
 
-Usage
+#Usage
