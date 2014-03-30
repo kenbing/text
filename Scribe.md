@@ -1,4 +1,4 @@
-Scribe is a server for aggregating streaming log data. It is designed to scale
+***Scribe*** is a server for aggregating streaming log data. It is designed to scale
 to a very large number of nodes and be robust to network and node failures.
 There is a scribe server runing on every node in the system, configured to
 aggregare messages and send them to a central scribe server (or servers) in
