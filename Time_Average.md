@@ -1,3 +1,4 @@
+### Time Average
 One of the most common question we hear from customers is, "How will
 Optimizely affect my page's load time?" They have good reason. Page load time
 has never been more important. Pages with faster response times reduce bounce
