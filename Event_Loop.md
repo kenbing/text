@@ -12,7 +12,6 @@ termed the main loop or main event loop. This title is appropriate because
 such an event loop is at the highest level of control within the program.
 
 ### Message passing
-
 Message pumps are said to 'pump' messages from the program's message queue
 (assigned and usually owned by the underlying operating system) into the
 program for processing. In the strictest sense, an event loop is one of the
@@ -22,7 +21,6 @@ Mach operating system. The event loop is a specific implementation technique
 of systems that use message passing.
 
 ### Alternative designs
-
 This approach is in contrast to a number of other alternatives:
 Traditionally, a program simply ran once then terminated. This type of program
 was very common in the early days of computing, and lacked any form of user
