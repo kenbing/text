@@ -1,9 +1,6 @@
 # Markdown Test
 
 
----
-
-
 ## This is some code
 
     <?php
@@ -11,7 +8,7 @@
     ?>
 
 
-##This is a list
+## This is a list
 - one
 - two
 - three
