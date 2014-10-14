@@ -2,7 +2,6 @@
 
 
 ## This is some code
-
     <?php
         echo "Hello world!"
     ?>
@@ -14,7 +13,7 @@
 - three
 
 
-Syntax highlight
+## Syntax highlight
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
