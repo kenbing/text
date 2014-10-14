@@ -1,6 +1,6 @@
 ### Markdown Test
 
 ```seq
-Alice->Bob: Hello, Bob!
-Bob->Alice: Fine, and you?
+Alice -> Bob: Hello, Bob!
+Bob -> Alice: Fine, and you?
 ```
