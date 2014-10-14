@@ -1,6 +1,5 @@
 ### Markdown Test
 
 This is some code
-    <?php
+    php
         echo "Hello world!"
-    ?>
