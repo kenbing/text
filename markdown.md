@@ -12,7 +12,6 @@ This is some code
 
 
 This is a list
-
 - one
 - two
 - three
