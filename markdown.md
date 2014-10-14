@@ -13,13 +13,8 @@ This is some code
 - three
 
 
-<<<<<<< HEAD
 ### Syntax highlight
 ```python
-=======
-## Syntax highlight
-```ruby
->>>>>>> parent of 148ecfc... test
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
