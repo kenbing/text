@@ -25,5 +25,4 @@ This is a link to [weibo](http://weibo.com).
 
 
 ### Image
-This is an image.
-![hot chick](http://ww3.sinaimg.cn/large/ed32338egw1egh9b2iuifj20iz0sgn01.jpg)
+This is an image. ![hot chick](http://ww3.sinaimg.cn/large/ed32338egw1egh9b2iuifj20iz0sgn01.jpg)
