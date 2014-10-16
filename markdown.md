@@ -20,8 +20,10 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
-### footnote
-This is a footnote[^footnote]
+### Links
+This is a link to [weibo](http://weibo.com).
 
 
-[^footnote]:这是一个**注释**
+### Image
+This is an image.
+![hot chick](http://ww3.sinaimg.cn/large/ed32338egw1egh9b2iuifj20iz0sgn01.jpg)
