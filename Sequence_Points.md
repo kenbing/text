@@ -1,6 +1,6 @@
 ### Sequence Points
 
-***ISO standard says that you are not allowed to change a variable more than once (or
+**ISO standard says that you are not allowed to change a variable more than once (or
 change and use one) without an intervening sequence point.**
 
 There is no sequence point between the use of ```i``` in ```a[i]``` and the change of
